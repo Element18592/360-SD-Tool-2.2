@@ -1,4 +1,4 @@
-# 360-SD-Tool-2.2
+# 360 SD Tool 2.2
 Geared for installers, this tool will allow you to read and write all 4GB Corona NANDs.
 
 Video by TheWeekendModder:
